@@ -12,6 +12,8 @@ const (
 
 	// ClientTypeTmobile TMobile ebonding client
 	ClientTypeTmobile
+
+	// Here we would add other types depending on how many clients do we add.
 )
 
 //Check for ATTClient
